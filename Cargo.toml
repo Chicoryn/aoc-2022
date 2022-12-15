@@ -6,5 +6,7 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-sscanf = "0.4"
+btree-range-map = "0.5"
 ndarray = "0.15"
+serde_json = "1.0"
+sscanf = "0.4"
